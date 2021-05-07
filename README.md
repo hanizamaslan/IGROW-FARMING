@@ -13,18 +13,6 @@ To run the program, open files and at the link type cmd to open command prompt (
 
 Using cmd type the command:
 
-command:- 1. python -m venv env
-          2. env\Scripts\activate
-          3. cd login
-          4. python manage.py runserver
-After that open web browser and type http://127.0.0.1:8000/
-
-For the next open command:-
-
-To run the program, open files and at the link type cmd
-
-Using cmd type the command:
-
 command:- 1. env\Scripts\activate
           2. cd login
           3. python manage.py runserver
