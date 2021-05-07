@@ -9,8 +9,9 @@ Please install this installer - command
 2. MySQL - pip install mysqlclient
 3. Pillow - pip install pillow
 
-To run the program, open files and at the link type cmd
-Using cmd
+To run the program, open files and at the link type cmd to open command prompt (cmd)
+
+Using cmd type the command:
 
 command:- 1. python -m venv env
           2. env\Scripts\activate
@@ -21,7 +22,8 @@ After that open web browser and type http://127.0.0.1:8000/
 For the next open command:-
 
 To run the program, open files and at the link type cmd
-Using cmd
+
+Using cmd type the command:
 
 command:- 1. env\Scripts\activate
           2. cd login
